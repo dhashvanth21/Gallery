@@ -152,7 +152,6 @@ Publish the website in the given URL.
 ```
 # OUTPUT:
 ![Screenshot 2024-12-16 013453](https://github.com/user-attachments/assets/2c526770-1fcc-440d-84a8-db6ed963916f)
-
 ![Screenshot 2024-12-16 013526](https://github.com/user-attachments/assets/6ae2f87e-198d-489d-8f56-55d3ac6d2a79)
 ![Screenshot 2024-12-16 013541](https://github.com/user-attachments/assets/3e999dc5-f34d-487c-ab21-c26db2ea2236)
 ![Screenshot 2024-12-16 013513](https://github.com/user-attachments/assets/6e194f8f-1e63-4e94-9e98-a793f36b20e2)
